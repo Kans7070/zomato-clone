@@ -321,7 +321,7 @@ ul p:hover{
     color: red;
 }
 @media  screen and (max-width:300px) {
-    .class-holder input{
+    .search-holder input{
         width: 50%;
     }
 }
