@@ -320,3 +320,8 @@ ul p:hover{
 .error{
     color: red;
 }
+@media  screen and (min-width:300px) {
+    .class-holder input{
+        width: 50%;
+    }
+}
